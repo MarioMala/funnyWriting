@@ -1,1 +1,1 @@
-Stronka do zabawy ustawieniami tekstu
+#Stronka do zabawy ustawieniami tekstu
