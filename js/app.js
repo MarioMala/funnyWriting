@@ -18,8 +18,6 @@ const changeColor = e => {
 	let g = Math.round(Math.random() * +e.target.value);
 	let b = Math.round(Math.random() * +e.target.value);
 
-	console.log(r, g, b, Math.ceil(Math.random()));
-
 	text.style.color = `rgb(${r}, ${g}, ${b})`;
 };
 
